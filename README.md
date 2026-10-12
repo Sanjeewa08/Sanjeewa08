@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sanjeewa08/Sanjeewa08/main/profile-banner.svg" width="100%" alt="Dilshan Daluwatthage — Junior Software Engineer · Full Stack + UI/UX" />
+<img src="https://raw.githubusercontent.com/Sanjeewa08/Sanjeewa08/main/profile-banner.svg" width="100%" alt="Dinesh Sanjeewa —  Aspiring Software Developer, Dart & Problem Solving" />
 
 <br/><br/><br/><br/>
 
@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="mailto:dineshsanjeewa2020@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="dineshsanjeewa2020@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/dineshsanjeewa/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Sanjeewa08"><img src="https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
