@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2F80ED,100:56CCF2&amp;height=180&amp;section=header&amp;text=Dinesh%20Sanjeewa&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Aspiring%20Software%20Developer%20%C2%B7%20Dart%20%26%20Problem%20Solving&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2457A7,100:48B9D0&height=180&section=header&text=Dinesh%20Sanjeewa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSc%20MIS%20Undergraduate%20%C2%B7%20IT%20%26%20Software%20Development&descAlignY=58&descSize=17" width="100%" alt="Dinesh Sanjeewa Profile Banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Learning+Dart+one+project+at+a+time;Practising+algorithms+%26+OOP;Building+small+projects%2C+solving+real+problems" alt="Typing SVG" />
+<br/>
 
-<br />
+<img src="https://komarev.com/ghpvc/?username=Sanjeewa08&label=PROFILE%20VIEWS&color=2F80ED&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Sanjeewa08?label=FOLLOWERS&style=for-the-badge&color=2F80ED" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Sanjeewa08?label=STARS&style=for-the-badge&color=2F80ED" alt="Stars"/>
 
-<img src="https://komarev.com/ghpvc/?username=Sanjeewa08&label=Profile%20Views&color=2F80ED&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Sanjeewa08?label=Followers&style=for-the-badge&color=2F80ED" alt="followers" />
-<img src="https://img.shields.io/github/stars/Sanjeewa08?label=Stars&style=for-the-badge&color=2F80ED" alt="stars" />
+<br/><br/>
 
-<p>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Sanjeewa08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<a href="mailto:dineshsanjeewa2020@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/dineshsanjeewa/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Sanjeewa08"><img src="https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=3&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=3&width=100%" width="100%" alt="Blue divider"/> 
 
 ## 👋 About Me
 
