@@ -1,22 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2457A7,100:48B9D0&height=180&section=header&text=Dinesh%20Sanjeewa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSc%20MIS%20Undergraduate%20%C2%B7%20IT%20%26%20Software%20Development&descAlignY=58&descSize=17" width="100%" alt="Dinesh Sanjeewa Profile Banner" />
+<img src="https://raw.githubusercontent.com/Sanjeewa08/Sanjeewa08/main/profile-banner.svg" width="100%" alt="Dilshan Daluwatthage — Junior Software Engineer · Full Stack + UI/UX" />
+
+<br/><br/><br/><br/>
+
+<img src="https://img.shields.io/github/followers/Sanjeewa08?label=FOLLOWERS&style=for-the-badge&labelColor=555555&color=2F80ED" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Sanjeewa08/Sanjeewa08?label=STARS&style=for-the-badge&labelColor=555555&color=2F80ED" alt="GitHub repository stars"/>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sanjeewa08&label=PROFILE%20VIEWS&color=2F80ED&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Sanjeewa08?label=FOLLOWERS&style=for-the-badge&color=2F80ED" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Sanjeewa08?label=STARS&style=for-the-badge&color=2F80ED" alt="Stars"/>
-
-<br/><br/>
 
 <a href="mailto:dineshsanjeewa2020@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/dineshsanjeewa/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Sanjeewa08"><img src="https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=3&width=100%" width="100%" alt="Blue divider"/> 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Sanjeewa08/Sanjeewa08/main/profile-divider.svg" width="100%" alt="Blue divider"/>
 
 ## 👋 About Me
 
