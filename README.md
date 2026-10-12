@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=Dinesh%20Sanjeewa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%C2%B7%20Dart%20%26%20Problem%20Solving&descAlignY=58&descSize=18" width="100%" alt="Profile banner: Dinesh Sanjeewa, Aspiring Software Developer, Dart & Problem Solving" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2F80ED,100:56CCF2&amp;height=180&amp;section=header&amp;text=Dinesh%20Sanjeewa&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Aspiring%20Software%20Developer%20%C2%B7%20Dart%20%26%20Problem%20Solving&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Profile banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Learning+Dart+one+project+at+a+time;Practising+algorithms+%26+OOP;Building+small+projects%2C+solving+real+problems" alt="Typing SVG" />
 
