@@ -8,6 +8,6 @@
   <rect width="1200" height="200" fill="url(#background)"/>
   <path d="M0 151c174 24 315 25 487 8 205-20 379-27 713 6v35H0z" fill="#122b46" opacity=".72"/>
   <path d="M0 169c210-31 356 10 548 1 233-11 382-44 652-5v35H0z" fill="#0b1a2a" opacity=".72"/>
-  <text x="600" y="105" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">Dilshan Daluwatthage</text>
-  <text x="600" y="148" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600">Junior Software Engineer · Full Stack + UI/UX</text>
+  <text x="600" y="105" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">Dinesh Sanjeewa</text>
+  <text x="600" y="148" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600">Aspiring Software Developer, Dart &amp; Problem Solving</text>
 </svg>
